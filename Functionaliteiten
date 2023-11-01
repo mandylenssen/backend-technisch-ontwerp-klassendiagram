@@ -1,0 +1,27 @@
+FUNCTIONELE EISEN
+1. De applicatie moet onderscheidt maken tussen de verschillende rechten tussen
+gebruikers(admin en personeelsleden).
+2. Als admin wil ik de naam en kenmerken van producten kunnen opslaan.
+3. Als personeelslid wil ik de naam en kenmerken van producten kunnen inzien.
+4. Als admin en personeelslid wil ik ten alle tijden inzicht hebben in wat de huidige voorraad
+is.
+5. Als admin wil ik dat het systeem bijhoudt hoeveel stuks er van een bepaald product
+verkocht worden en wanneer.
+6. Als admin wil ik een uitdraai kunnen maken van hoeveel stuks er van een bepaald product
+verkocht zijn en wanneer.
+7. Als personeelslid wil ik dat het systeem adviseert welk product samen gaat met een ander
+product.
+8. Als admin wil ik de mogelijkheid om bestellingen te genereren voor nieuwe voorraad op
+basis van de huidige voorraadniveaus.
+9. Als admin wil ik prijzen, kortingen en aanbiedingen voor producten kunnen beheren.
+
+
+NIET-FUNCTIONELE EISEN
+1. Omdat de applicatie in de winkel gebruikt zal worden moet deze snel opstarten en
+reageren op verzoeken.
+2. Klant- en betalingsgegevens moeten worden versleuteld om privacy en beveiliging te
+waarborgen.
+3. Als admin en personeelslid wil ik makkelijk door de applicatie heen kunnen navigeren.
+4. Als admin wil ik dat de applicatie makkelijk te onderhouden is.
+5. De app moet ten alle tijden beschikbaar zijn.
+6. App updates dienen buiten werktijden uitgevoerd te worden.
